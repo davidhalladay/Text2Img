@@ -3,11 +3,11 @@
 
 ### TODO
 Idx | Tasks | Done
-------|:------|:----:
-1 | Fix the bug in the original data | Done Aug 10.2019
-2 | Modify the vanilla GAN Model | Done Aug 11.2019
-3 | setup Visdom for training (Facebook research team) | Done Aug 11.2019
-4 | Train text to image for the first time | Done Aug 11.2019
+:------:|:------:|:----:
+1 | Fix the bug in the original data | Aug 10.2019
+2 | Modify the vanilla GAN Model | Aug 11.2019
+3 | setup Visdom for training (Facebook research team) | Aug 11.2019
+4 | Train text to image for the first time | Aug 11.2019
 5 | Add bboxes GAWWN model |
 6 | Test on 128 * 128 image size |
 
