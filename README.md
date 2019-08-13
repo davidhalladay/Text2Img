@@ -2,14 +2,14 @@
 > Fork from "https://github.com/aelnouby/Text-to-Image-Synthesis"
 
 ### TODO
-Tasks | Done
-------|:----:
-1. Fix the bug in the original data | Done Aug 10.2019
-2. Modify the vanilla GAN Model | Done Aug 11.2019
-3. setup Visdom for training (Facebook research team) | Done Aug 11.2019
-4. Train text to image for the first time | Done Aug 11.2019
-5. Add bboxes GAWWN model |
-6. Test on 128 * 128 image size |
+Idx | Tasks | Done
+------|:------|:----:
+1 | Fix the bug in the original data | Done Aug 10.2019
+2 | Modify the vanilla GAN Model | Done Aug 11.2019
+3 | setup Visdom for training (Facebook research team) | Done Aug 11.2019
+4 | Train text to image for the first time | Done Aug 11.2019
+5 | Add bboxes GAWWN model |
+6 | Test on 128 * 128 image size |
 
 ### Usage
 - Get dataset here : (CUB) https://drive.google.com/file/d/1mNhn6MYpBb-JwE86GC1kk0VJsYj-Pn5j/view
