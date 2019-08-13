@@ -11,10 +11,14 @@ Idx | Tasks | Done
 5 | Add bboxes GAWWN model |
 6 | Test on 128 * 128 image size |
 
+---
+
 ### Usage
 - Get dataset here : (CUB) https://drive.google.com/file/d/1mNhn6MYpBb-JwE86GC1kk0VJsYj-Pn5j/view
 - modify config.yaml to match path to the dataset
 - python3 runtime.py
+
+---
 
 ### CUB results
 
