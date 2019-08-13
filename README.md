@@ -11,10 +11,13 @@
 - python3 runtime.py
 
 ### CUB results
-![A bird with a cream underbelly and black wings that are spotted with white.](/images/CUB_64/01.jpg)
-![A larger sized bird that has a jet black coat with little white pin stripes at the tips of its wings.](/images/CUB_64/02.jpg)
-![a small bird with black and white secondaries, white wing bars and a yellow spot on its crown.](/images/CUB_64/03.jpg)
-![bird has gray body feathers, white breast feather, and black beak.](/images/CUB_64/04.jpg)
-![this bird has a long curved bill, a white breast, and a brown head and wings.](/images/CUB_64/05.jpg)
-![this bird has a medium bill, a yellow superciliary, and a white breast and belly.](/images/CUB_64/06.jpg)
-![this is an orange bird with a brown wing and a small beak.](/images/CUB_64/07.jpg)
+
+Texts     | images
+----------|:------:
+A bird with a cream underbelly and black wings that are spotted with white. | ![01](/images/CUB_64/01.jpg)
+A larger sized bird that has a jet black coat with little white pin stripes at the tips of its wings. | ![02](/images/CUB_64/02.jpg)
+a small bird with black and white secondaries, white wing bars and a yellow spot on its crown. | ![03](/images/CUB_64/03.jpg)
+bird has gray body feathers, white breast feather, and black beak. | ![04](/images/CUB_64/04.jpg)
+this bird has a long curved bill, a white breast, and a brown head and wings. | ![05](/images/CUB_64/05.jpg)
+this bird has a medium bill, a yellow superciliary, and a white breast and belly. | ![06](/images/CUB_64/06.jpg)
+this is an orange bird with a brown wing and a small beak. | ![07](/images/CUB_64/07.jpg)
